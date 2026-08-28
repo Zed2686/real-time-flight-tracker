@@ -151,8 +151,7 @@ The application processes several aircraft telemetry fields:
 
 ## Live Demonstration
 
-![Real-time flight tracker showing live aircraft data](screenshots/flight-tracker-live.png)
-
+<img src="screenshots/flight-tracker-live.png" alt="Real-time flight tracker showing live aircraft data">
 
 
 ### Example output
